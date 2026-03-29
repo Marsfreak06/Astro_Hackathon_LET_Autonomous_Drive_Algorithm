@@ -1,0 +1,5 @@
+ultralytics
+opencv-python
+pyserial
+adafruit-circuitpython-bmp280
+rplidar
